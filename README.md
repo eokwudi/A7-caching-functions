@@ -1,5 +1,4 @@
 # A7-caching-functions
-Using Julia to cache functions using free variables
 
 Write a function called make_cache that takes as its input a function with a single integer parameter that returns a single integer parameter.  For example it might take a fibonacci or factorial function.
 
